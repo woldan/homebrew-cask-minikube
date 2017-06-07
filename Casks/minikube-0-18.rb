@@ -1,4 +1,4 @@
-cask 'minikube' do
+cask 'minikube-0-18' do
   version '0.18.0'
   sha256 '301dc5f47cccface80769bd3a03d58ba80893f6ede75f2a7ec22f1bc56666deb'
 
